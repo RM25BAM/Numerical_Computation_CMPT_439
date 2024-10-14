@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://www.allmath.com/storage/2024/May/bisectiongraphicalrepresentaion_8.jpg" alt="Hosted Image" />
 </div>
-
 _____________________________________________________________
 In this repo includes the 4 problems and the report 
 - Q1 (37/40)
