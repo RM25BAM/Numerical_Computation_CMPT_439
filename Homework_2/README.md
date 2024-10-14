@@ -14,10 +14,10 @@
 ---
 
 In this repo includes the 4 problems and the report 
-- Q1 
-- Q2 
-- Q3 
-- Q4 
-- Report 
+- [Q1](./Q1.py) 
+- [Q2](./Q2.py)
+- [Q3](./Q3.py)
+- [Q4](./Q4.py)
+- [Report](./Report.pdf) 
 
 
