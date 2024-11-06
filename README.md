@@ -9,3 +9,6 @@
 [Click Here](./Homework_2/README.md)
 
 ---
+
+**Newtons Method**
+[Click Here](./Homework_3/README.md)
