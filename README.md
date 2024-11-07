@@ -12,3 +12,8 @@
 
 **Newtons Method**
 [Click Here](./Homework_3/README.md)
+
+---
+
+**Lagrange Interpolation Method**
+[Click Here](./Homework_7/README.md)
