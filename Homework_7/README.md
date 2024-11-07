@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://www.researchgate.net/publication/384227306/figure/fig2/AS:11431281279318986@1726926081100/Points-for-obtain-Newton-interpolation-i-iCi-i.ppm" alt="Hosted Image" />
+  <img src="https://pythonnumericalmethods.studentorg.berkeley.edu/_images/chapter17.05-Newtons-Polynomial-Interpolation_6_1.png" alt="Hosted Image" />
   <p>Newton's Interpolation</p>
 </div>
 
