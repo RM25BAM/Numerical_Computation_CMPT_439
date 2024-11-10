@@ -13,13 +13,13 @@
 </div>
 
 <In this repo includes the 4 problems and the report>
-- Q1 
-- Q2 AI
-- Q3
-- Q3 AI 
-- Q4
-- Q5 AI
-- Report 
+- [Q1](./Q1.py) 50/50
+- [Q2](./Q2.py) 10/10
+- [Q3](./Q3.py) 25/25
+- [Q3 AI](./Q3-AI.py)  
+- [Q4](./Q4.py) 20/20
+- [Q5](./Q5.py) 10/10
+- [Report](./NC%20HW%207.pdf) 5/5
 
 For the extra credit I used this resources to implement it!
 [Click Here](https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter17.05-Newtons-Polynomial-Interpolation.html)
