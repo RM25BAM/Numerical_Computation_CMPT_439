@@ -8,7 +8,7 @@
 <In this repo includes the 4 problems and the report>
 - [Q1](./Q1.py)
 - [Q3](./Q3.py) 
-- [Report](./NC HW 4.pdf)
+- [Report](NC%20HW%204.pdf)
 
 For the extra credit I used this resources to implement it!
 [Click Here](https://www.geeksforgeeks.org/how-to-calculate-the-determinant-of-a-matrix-using-numpy/) and
