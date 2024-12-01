@@ -4,13 +4,7 @@ function [x] = Gauss(A)
 %pivoting
 %A is the augmented matrix
 %
-
-
-
 n = size(A,1);  
-
-
-
 for i = 1:n-1
     p = i;
     %comparison to select the pivot
